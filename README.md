@@ -1,0 +1,2 @@
+# Location-For-Yelp
+Analyzing of a high profile Asian food chain (Panda Hotpot) which is looking to open three locations in the Dallas-Fort Worth area. I carried out business location analysis keeping in mind that it is a mid-price (‘$$’ on Yelp!) hotpot chain with high-tech trendy architecture as standard across all countries.  Using data available from Business Analysis ArcGIS Maps determine the three locations following the instructions provided below. We will further identify the geocodes of the shortlisted locations using ArcGIS Pro.
